@@ -1,2 +1,2 @@
 # WeatherApp
-Android application for getting weather forecast
+Android application for getting weather forecast.
